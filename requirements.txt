@@ -3,6 +3,9 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+fastapi
 uvicorn
 streamlit
 scipy
+statsmodels
+jupyter
